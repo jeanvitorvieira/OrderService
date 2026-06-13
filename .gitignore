@@ -1,0 +1,14 @@
+## .NET gitignore
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
+
